@@ -1,4 +1,5 @@
 # Ignore local env with SMTP credentials and configuration files
+.env
 smtp.env
 appsettings.Development.json
 appsettings.Local.json
